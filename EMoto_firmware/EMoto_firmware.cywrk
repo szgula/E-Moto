@@ -3,11 +3,12 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="EMoto_firmware" persistent="EMoto_firmware.cywrk" platform="NOT_USED">
-<current_project name=".\EMoto_BodyControls.cydsn\EMoto_BodyControls.cyprj" />
+<current_project name=".\EMoto_FrontControls.cydsn\EMoto_FrontControls.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\EMoto_BodyControls.cydsn\EMoto_BodyControls.cyprj</v>
+<v>.\EMoto_FrontControls.cydsn\EMoto_FrontControls.cyprj</v>
 </projects>
 <workspace_id v="6cc817b6-e72a-4305-9495-6a543b964e7e" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />

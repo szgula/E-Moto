@@ -32,6 +32,22 @@
 <v>EMoto_firmware\EMoto_BodyControls\Header Files\cyapicallbacks.h</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files\main.c</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Pins</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Analog</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Clocks</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Interrupts</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\DMA</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\System</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Directives</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Flash Security</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\EEPROM</v>
+<v>EMoto_firmware\EMoto_FrontControls\Header Files</v>
+<v>EMoto_firmware\EMoto_FrontControls\Header Files\cyapicallbacks.h</v>
+<v>EMoto_firmware\EMoto_FrontControls\Source Files</v>
+<v>EMoto_firmware\EMoto_FrontControls\Source Files\main.c</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
@@ -51,6 +67,22 @@
 <v>EMoto_firmware\EMoto_BodyControls\Header Files\cyapicallbacks.h</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files\main.c</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Pins</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Analog</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Clocks</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Interrupts</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\DMA</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\System</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Directives</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Flash Security</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\EEPROM</v>
+<v>EMoto_firmware\EMoto_FrontControls\Header Files</v>
+<v>EMoto_firmware\EMoto_FrontControls\Header Files\cyapicallbacks.h</v>
+<v>EMoto_firmware\EMoto_FrontControls\Source Files</v>
+<v>EMoto_firmware\EMoto_FrontControls\Source Files\main.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -59,12 +91,18 @@
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign\TopDesign.cysch</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign\TopDesign.cysch</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -74,6 +112,10 @@
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.gpdsc</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.rpt</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls_timing.html</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.gpdsc</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.rpt</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls_timing.html</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
@@ -81,6 +123,10 @@
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.gpdsc</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.rpt</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls_timing.html</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.gpdsc</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.rpt</v>
+<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls_timing.html</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -96,6 +142,11 @@
 <v>EMoto_firmware\EMoto_BodyControls\CY8C58LP Family Datasheet</v>
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides</v>
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides\cy_boot_v5_70</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\PSoC 5LP Architecture TRM</v>
+<v>EMoto_firmware\EMoto_FrontControls\CY8C58LP Family Datasheet</v>
+<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides</v>
+<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides\cy_boot_v5_70</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
@@ -104,10 +155,20 @@
 <v>EMoto_firmware\EMoto_BodyControls\CY8C58LP Family Datasheet</v>
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides</v>
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides\cy_boot_v5_70</v>
+<v>EMoto_firmware\EMoto_FrontControls</v>
+<v>EMoto_firmware\EMoto_FrontControls\PSoC 5LP Architecture TRM</v>
+<v>EMoto_firmware\EMoto_FrontControls\CY8C58LP Family Datasheet</v>
+<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides</v>
+<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides\cy_boot_v5_70</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
 </CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
 </dataGuid>
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
