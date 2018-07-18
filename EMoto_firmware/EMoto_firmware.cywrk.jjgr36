@@ -13,12 +13,11 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Pins">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Pins</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Analog</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Clocks</v>
@@ -32,101 +31,211 @@
 <v>EMoto_firmware\EMoto_BodyControls\Header Files\cyapicallbacks.h</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files\main.c</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Pins</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Analog</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Clocks</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Interrupts</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\DMA</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\System</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Directives</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Flash Security</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\EEPROM</v>
-<v>EMoto_firmware\EMoto_FrontControls\Header Files</v>
-<v>EMoto_firmware\EMoto_FrontControls\Header Files\cyapicallbacks.h</v>
-<v>EMoto_firmware\EMoto_FrontControls\Source Files</v>
-<v>EMoto_firmware\EMoto_FrontControls\Source Files\main.c</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Pins</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Analog</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Clocks</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Interrupts</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\DMA</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\System</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Directives</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\Flash Security</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.cydwr\EEPROM</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Header Files</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Header Files\cyapicallbacks.h</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Source Files</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Source Files\main.c</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Pins</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Analog</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Clocks</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Interrupts</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\DMA</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\System</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Directives</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\Flash Security</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.cydwr\EEPROM</v>
 <v>EMoto_firmware\EMoto_BodyControls\Header Files</v>
 <v>EMoto_firmware\EMoto_BodyControls\Header Files\cyapicallbacks.h</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files</v>
 <v>EMoto_firmware\EMoto_BodyControls\Source Files\main.c</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Pins</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Analog</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Clocks</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Interrupts</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\DMA</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\System</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Directives</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\Flash Security</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.cydwr\EEPROM</v>
-<v>EMoto_firmware\EMoto_FrontControls\Header Files</v>
-<v>EMoto_firmware\EMoto_FrontControls\Header Files\cyapicallbacks.h</v>
-<v>EMoto_firmware\EMoto_FrontControls\Source Files</v>
-<v>EMoto_firmware\EMoto_FrontControls\Source Files\main.c</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1_FinalBuf</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1_IntClock</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1_IRQ</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1_SAR</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\ADC_SAR_Seq_1_TempBuf</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\analog_1</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\analog_2</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\analog_3</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\analog_4</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\blinkers</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\buzzer</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\CAN</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\Clock_1</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cy_boot</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\inputPins</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\inputPins2</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\leg_input</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\PWM</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\PWM_OUT</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\RX_CAN</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\stop</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\TX_CAN</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\UART</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\UART_IntClock</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydevice.h</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>EMoto_firmware\EMoto_BodyControls\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="EMoto_firmware">
 <ExpandedNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign\TopDesign.cysch</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign\TopDesign.cysch</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign</v>
 <v>EMoto_firmware\EMoto_BodyControls\TopDesign\TopDesign.cysch</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign</v>
-<v>EMoto_firmware\EMoto_FrontControls\TopDesign\TopDesign.cysch</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\TopDesign</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_FinalBuf_dma.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_IntClock.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_IRQ.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_TempBuf_dma.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_2.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_3.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_4.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\blinkers.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\buzzer.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX_RX_func.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\inputPins.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\inputPins2.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\leg_input.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_OUT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\RX_CAN.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\stop.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\TX_CAN.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\EMoto_BodyControls.elf</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\EMoto_BodyControls.hex</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\EMoto_BodyControls.map</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.gpdsc</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.rpt</v>
 <v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls_timing.html</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.gpdsc</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.rpt</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls_timing.html</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug\EMoto_FrontControls_Copy_02.elf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug\EMoto_FrontControls_Copy_02.hex</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CortexM3\ARM_GCC_541\Debug\EMoto_FrontControls_Copy_02.map</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.gpdsc</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02.rpt</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\EMoto_FrontControls_Copy_02_timing.html</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
 <v>EMoto_firmware\EMoto_BodyControls</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.gpdsc</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls.rpt</v>
-<v>EMoto_firmware\EMoto_BodyControls\EMoto_BodyControls_timing.html</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.gpdsc</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls.rpt</v>
-<v>EMoto_firmware\EMoto_FrontControls\EMoto_FrontControls_timing.html</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_FinalBuf_dma.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_IntClock.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_IRQ.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_SAR_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Seq_1_TempBuf_dma.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_2.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_3.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\analog_4.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\blinkers.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\buzzer.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_INT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_PM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX_RX_func.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\inputPins.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\inputPins2.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\leg_input.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_OUT.lst</v>
+<v>EMoto_firmware\EMoto_BodyControls\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -144,19 +253,29 @@
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides\cy_boot_v5_70</v>
 <v>EMoto_firmware\EMoto_BodyControls\ADC_SAR_SEQ_v2_10.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\CAN_v3_0.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\cy_clock_v2_20.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\cy_pins_v2_20</v>
 <v>EMoto_firmware\EMoto_BodyControls\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\PWM_v3_30.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\UART_v2_50.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\PSoC 5LP Architecture TRM</v>
-<v>EMoto_firmware\EMoto_FrontControls\CY8C58LP Family Datasheet</v>
-<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides</v>
-<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides\cy_boot_v5_70</v>
-<v>EMoto_firmware\EMoto_FrontControls\ADC_SAR_SEQ_v2_10.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\CAN_v3_0.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\cy_pins_v2_20</v>
-<v>EMoto_firmware\EMoto_FrontControls\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\UART_v2_50.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\ZeroTerminal.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\PSoC 5LP Architecture TRM</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CY8C58LP Family Datasheet</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\System Reference Guides</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\System Reference Guides\cy_boot_v5_70</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CAN_v3_0.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_clock_v2_20</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_isr_v1_70.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_pins_v2_20</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\PWM_v3_30.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Timer_v2_80.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\UART_v2_50.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ZeroTerminal</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ZeroTerminal\ZeroTerminal.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>EMoto_firmware</v>
@@ -167,19 +286,29 @@
 <v>EMoto_firmware\EMoto_BodyControls\System Reference Guides\cy_boot_v5_70</v>
 <v>EMoto_firmware\EMoto_BodyControls\ADC_SAR_SEQ_v2_10.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\CAN_v3_0.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\cy_clock_v2_20.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\cy_pins_v2_20</v>
 <v>EMoto_firmware\EMoto_BodyControls\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\PWM_v3_30.pdf</v>
 <v>EMoto_firmware\EMoto_BodyControls\UART_v2_50.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls</v>
-<v>EMoto_firmware\EMoto_FrontControls\PSoC 5LP Architecture TRM</v>
-<v>EMoto_firmware\EMoto_FrontControls\CY8C58LP Family Datasheet</v>
-<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides</v>
-<v>EMoto_firmware\EMoto_FrontControls\System Reference Guides\cy_boot_v5_70</v>
-<v>EMoto_firmware\EMoto_FrontControls\ADC_SAR_SEQ_v2_10.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\CAN_v3_0.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\cy_pins_v2_20</v>
-<v>EMoto_firmware\EMoto_FrontControls\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>EMoto_firmware\EMoto_FrontControls\UART_v2_50.pdf</v>
+<v>EMoto_firmware\EMoto_BodyControls\ZeroTerminal.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\PSoC 5LP Architecture TRM</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CY8C58LP Family Datasheet</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\System Reference Guides</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\System Reference Guides\cy_boot_v5_70</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\CAN_v3_0.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_clock_v2_20</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_isr_v1_70.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_pins_v2_20</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\PWM_v3_30.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\Timer_v2_80.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\UART_v2_50.pdf</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ZeroTerminal</v>
+<v>EMoto_firmware\EMoto_FrontControls_Copy_02\ZeroTerminal\ZeroTerminal.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -193,7 +322,25 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v=".\EMoto_BodyControls.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\EMoto_BodyControls.cydsn\EMoto_BodyControls.cydwr" />
+<name v=".\EMoto_BodyControls.cydsn\main.c" />
+<name v=".\EMoto_FrontControls.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\EMoto_FrontControls.cydsn\EMoto_FrontControls.cydwr" />
+<name v=".\EMoto_FrontControls.cydsn\main.c" />
+<name v=".\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\inputPins_aliases.h" />
+<name v=".\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\cyfitter.h" />
+<name v=".\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\outputPins.h" />
+<name v=".\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\outputPins_aliases.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1277, 599" SelectedTabbedMdiWindow="909534a3-7036-4aaf-8a45-9dee222d9ef8"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1d931404-70e9-4de1-9bc9-b1544e0a50c6" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_BodyControls.cydsn\TopDesign\TopDesign.cysch" Guid="d0c82344-e53d-4328-be2e-27c0270db2ad" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_BodyControls.cydsn\EMoto_BodyControls.cydwr" Guid="b3e97959-69d0-4ab7-bb52-87214afb9458" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_BodyControls.cydsn\main.c" Guid="7bd33dc9-ff49-4a9e-9523-376a204bf9bc" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\TopDesign\TopDesign.cysch" Guid="ecf5b7ac-b9f0-4cbd-ab02-a30cad0159be" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\EMoto_FrontControls.cydwr" Guid="46239ea2-1f50-4ced-822a-0da64a04bf5e" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\main.c" Guid="909534a3-7036-4aaf-8a45-9dee222d9ef8" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\inputPins_aliases.h" Guid="f7b0c485-92bf-4ab7-be65-da8c4f09e491" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\cyfitter.h" Guid="b498b6fd-ee29-455c-a05d-cef4e48cc6c3" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\outputPins.h" Guid="9c433907-af8e-4fb4-b47e-dfb8db0a486c" /><DocumentWindow Key="C:\Users\jjgr36\Desktop\AGH\E-Moto\EMoto_firmware\EMoto_FrontControls.cydsn\Generated_Source\PSoC5\outputPins_aliases.h" Guid="230ddbf6-cb20-429e-8ca2-883c851e4bce" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
